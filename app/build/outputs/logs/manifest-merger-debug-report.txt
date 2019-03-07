@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8b5724f29923ae746d32e5b7e6c147e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46e1010e9d9b8e6e0ff2d2a7536146e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c56e6a12d10d525938ea8aaeadab546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6d9e14f14677221479dd11843da4afe3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a047b289f27bfb19f3fdf53a50c9cc11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\51ad7f2bcb7a0dc20531dba0de62c7a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63e144943890399afc4987b0461e090d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8f6187ef426eed4cf2346df728ca72ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9b913436ba583de69cfbdc164561c24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba1c9c5762b7afd2fea47eca690c098b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02fdf52dc43542f4a4925d0033294a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\21aab719b1cf44fa786feaa3407bc8d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a5c4de81c3a413219035c79fb2b9edc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f64381dc8febc0b3211408ff24379196\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f03892df5bc9602894b1d6ea4b03a7eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\adb8e659c241c5db974a4aebaa481caa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a51d5fbc1820d735bac39435cd56866b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04e287e889478117934cc8abeebbf3f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b86ba0c6c2a2e633e8ff8194017a86e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8b73811d8c510e90e5ba568b9171abc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d3f9077dd91d0e2427d58591bb9aad7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8083b8691a56d63530678697f2f6012c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c5d9eb730735713eec32e70c661b1f89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eb2ddc8e12854b48d3ca3573fdba20dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7c16c19eb84735a3138aa5af419d902f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\35962ff26d447aa1de99c95d66b8f8a2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:6:22-73
+application
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46e1010e9d9b8e6e0ff2d2a7536146e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46e1010e9d9b8e6e0ff2d2a7536146e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\adb8e659c241c5db974a4aebaa481caa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\adb8e659c241c5db974a4aebaa481caa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.dam2a21.controller.MenuActivity
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.dam2a21.controller.MainActivity
+ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:23:48-85
+	android:name
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8b5724f29923ae746d32e5b7e6c147e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8b5724f29923ae746d32e5b7e6c147e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46e1010e9d9b8e6e0ff2d2a7536146e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46e1010e9d9b8e6e0ff2d2a7536146e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c56e6a12d10d525938ea8aaeadab546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c56e6a12d10d525938ea8aaeadab546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6d9e14f14677221479dd11843da4afe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6d9e14f14677221479dd11843da4afe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a047b289f27bfb19f3fdf53a50c9cc11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a047b289f27bfb19f3fdf53a50c9cc11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\51ad7f2bcb7a0dc20531dba0de62c7a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\51ad7f2bcb7a0dc20531dba0de62c7a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63e144943890399afc4987b0461e090d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63e144943890399afc4987b0461e090d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8f6187ef426eed4cf2346df728ca72ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8f6187ef426eed4cf2346df728ca72ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9b913436ba583de69cfbdc164561c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9b913436ba583de69cfbdc164561c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba1c9c5762b7afd2fea47eca690c098b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba1c9c5762b7afd2fea47eca690c098b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02fdf52dc43542f4a4925d0033294a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02fdf52dc43542f4a4925d0033294a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\21aab719b1cf44fa786feaa3407bc8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\21aab719b1cf44fa786feaa3407bc8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a5c4de81c3a413219035c79fb2b9edc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a5c4de81c3a413219035c79fb2b9edc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f64381dc8febc0b3211408ff24379196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f64381dc8febc0b3211408ff24379196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f03892df5bc9602894b1d6ea4b03a7eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f03892df5bc9602894b1d6ea4b03a7eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bee7757fe8c2e30d9985fa99077770e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\adb8e659c241c5db974a4aebaa481caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\adb8e659c241c5db974a4aebaa481caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a51d5fbc1820d735bac39435cd56866b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a51d5fbc1820d735bac39435cd56866b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04e287e889478117934cc8abeebbf3f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04e287e889478117934cc8abeebbf3f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b86ba0c6c2a2e633e8ff8194017a86e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b86ba0c6c2a2e633e8ff8194017a86e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8b73811d8c510e90e5ba568b9171abc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8b73811d8c510e90e5ba568b9171abc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d3f9077dd91d0e2427d58591bb9aad7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d3f9077dd91d0e2427d58591bb9aad7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8083b8691a56d63530678697f2f6012c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8083b8691a56d63530678697f2f6012c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c5d9eb730735713eec32e70c661b1f89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c5d9eb730735713eec32e70c661b1f89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eb2ddc8e12854b48d3ca3573fdba20dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eb2ddc8e12854b48d3ca3573fdba20dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7c16c19eb84735a3138aa5af419d902f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7c16c19eb84735a3138aa5af419d902f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\35962ff26d447aa1de99c95d66b8f8a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Marm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\35962ff26d447aa1de99c95d66b8f8a2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marm\Downloads\Controller\app\src\main\AndroidManifest.xml

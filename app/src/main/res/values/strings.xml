@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="dialog_message">Ya hay 4 jugadores en esta pantalla o la partida ya ha empezado</string>
+    <string name="dialog_title">Error</string>
+    <string name="ok">Volver atrás</string>
+    <string-array name="brew_array">
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Marron</item>
+    </string-array>
+</resources>

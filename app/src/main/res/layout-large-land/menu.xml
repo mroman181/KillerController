@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/textView_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="IP:"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toStartOf="@+id/textView_port"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="79dp"
+        android:text="Port:"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="@+id/static_spinner"
+        app:layout_constraintStart_toStartOf="@+id/textView_color"
+        app:layout_constraintTop_toBottomOf="@+id/textView_ip" />
+
+    <EditText
+        android:id="@+id/editText_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="1234"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="@+id/textView_port"
+        app:layout_constraintStart_toStartOf="@+id/static_spinner"
+        app:layout_constraintTop_toTopOf="@+id/textView_port" />
+
+    <EditText
+        android:id="@+id/editText_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="172.16.203.17"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="@+id/textView_ip"
+        app:layout_constraintEnd_toEndOf="@+id/editText_port"
+        app:layout_constraintStart_toStartOf="@+id/editText_port"
+        app:layout_constraintTop_toTopOf="@+id/textView_ip" />
+
+    <TextView
+        android:id="@+id/textView_color"
+        android:layout_width="wrap_content"
+        android:layout_height="15dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="165dp"
+        android:text="Color"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_port" />
+
+    <Spinner
+        android:id="@+id/static_spinner"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:background="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="@+id/textView_color"
+        app:layout_constraintStart_toEndOf="@+id/textView_color"
+        app:layout_constraintTop_toTopOf="@+id/textView_color" />
+
+    <Button
+        android:id="@+id/button_connect"
+        android:layout_width="182dp"
+        android:layout_height="172dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginRight="36dp"
+        android:onClick="connect"
+        android:text="Connect!"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView_ip" />
+
+</android.support.constraint.ConstraintLayout>

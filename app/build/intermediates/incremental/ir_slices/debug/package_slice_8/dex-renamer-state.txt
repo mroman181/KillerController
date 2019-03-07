@@ -1,0 +1,4 @@
+#Thu Mar 07 15:54:51 CET 2019
+base.0=C\:\\Users\\Marm\\Downloads\\Controller\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
